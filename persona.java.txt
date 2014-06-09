@@ -1,0 +1,10 @@
+public persona{
+
+private string nombre;
+
+public persona(){
+
+System.out.println("holi");
+
+   }
+}
